@@ -12,6 +12,8 @@ Responsable, perseverante, con capacidades de aprendizaje rápido, fácil adapta
 
 Links:
 
-https://www.linkedin.com/in/monogatodesign/
+https://www.linkedin.com/in/monogatodesign/ 
+
 https://www.behance.net/monogatodesign
+
 https://github.com/Mono-Gato
