@@ -1,3 +1,4 @@
+
 <p align='center'>
   <a href="https://www.behance.net/monogatodesign" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/monogatodesign/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,7 +42,7 @@ I like to constantly improve my skills and learn something new every day.
 
 <h4>Testing</h4>
 
-![Jest](https://img.shields.io/badge/-jest-%238D6748?style=for-the-badge&logo=jest&logoColor=white)<span style="font-style: italic;"> ComingSoon</span>
+![Jest](https://img.shields.io/badge/-jest-%238D6748?style=for-the-badge&logo=jest&logoColor=white)&nbsp;*ComingSoon*
 
 <h4>Others</h4>
 
