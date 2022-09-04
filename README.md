@@ -41,7 +41,7 @@ I like to constantly improve my skills and learn something new every day.
 
 <h4>Testing</h4>
 
-![Jest](https://img.shields.io/badge/-jest-%238D6748?style=for-the-badge&logo=jest&logoColor=white)<p>ComingSoon</p>
+![Jest](https://img.shields.io/badge/-jest-%238D6748?style=for-the-badge&logo=jest&logoColor=white)<span>ComingSoon</span>
 
 <h4>Others</h4>
 
