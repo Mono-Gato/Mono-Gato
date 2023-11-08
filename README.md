@@ -16,9 +16,9 @@ I like to constantly improve my skills and learn something new every day.
 
 <h3>Some things about me</h3>
 <p>
-👨‍💻  &nbsp;&nbsp;I'm currently working as Web Lead Designer at <a href="https://elenas.co/" target="_blank">@Elenas</a>.
+👨‍💻  &nbsp;&nbsp;I'm currently working as UX Developer at <a href="https://vasscompany.com/" target="_blank">@VASS</a> for Scotiabank Colpatria.
 
-💬 &nbsp;&nbsp;If you want to contact me. Email: <a href="mailto:monogat.dg@gmail.com">monogato.dg@gmail.com</a>.
+💬 &nbsp;&nbsp;If you want to contact me. Email: <a href="mailto:monogato.dg@gmail.com">monogato.dg@gmail.com</a>.
 </p>
 
 <br>
